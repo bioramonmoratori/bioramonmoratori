@@ -1,10 +1,14 @@
 <div>
  <h1 align=left>BioRamonMoratori</h1>
+</div> 
+ 
+<div>
+ <br/>
  <a href="https://github.com/bioramonmoratori">
  <img align=left height="140em" src="https://github-readme-stats.vercel.app/api?username=bioramonmoratori&show_icons=true&theme=blue-green&include_all_commits=true&count_private=true"/>
  <img align=left height="140em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bioramonmoratori&layout=compact&langs_count=7&theme=blue-green"/>
 </div>
-
+ 
 ##  
   
 <div style="display: inline_block"><br>
@@ -12,6 +16,7 @@
   <br/>
   <br/>
   <h3>------------------------------------------------------------------------------------------------------------------------</h3>
+  <h4> Meus Favoritos </h4>
   <img align="center" alt="Ramon-Python" height="30" width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="Ramon-TF" height="30" width="30" src="https://symbols.getvecta.com/stencil_97/43_tensorflow-icon.f7092db2bd.svg">
   <img align="center" alt="Ramon-Arduino" height="30" width="30" src="https://icon-icons.com/downloadimage.php?id=20911&root=159/PNG/256/&file=arduino_22429.png">
