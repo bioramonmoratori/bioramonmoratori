@@ -17,7 +17,9 @@
   <br/>
   <br/>
   <h3>-----------------------------------------------------------------------------------------------------------------------</h3>
-  <h3>-----------------------------------------------------------------------------------------------------------------------</h3>
-  <img align="center" alt="Rafa-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+  <img align="center" alt="Ramon-Python" height="30" width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+  <img align="center" alt="Ramon-TF" height="30" width="30" src="https://symbols.getvecta.com/stencil_97/43_tensorflow-icon.f7092db2bd.svg">
+  <img align="center" alt="Ramon-Arduino" height="30" width="30" src="https://icon-icons.com/downloadimage.php?id=20911&root=159/PNG/256/&file=arduino_22429.png">
+  <img align="center" alt="Ramon-OpenCV" height="30" width="30" src="https://icon-icons.com/downloadimage.php?id=170887&root=2699/PNG/512/&file=opencv_logo_icon_170887.png">
 </div>
 
