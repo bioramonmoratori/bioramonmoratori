@@ -5,7 +5,7 @@
 
 </div> 
 <div style="display: inline_block"></div>
-<h2>Aqui você encontrará projetos em Java, Spring Boot e Python, com foco em Back-End</h2>  
+
 
   
 
