@@ -1,5 +1,5 @@
 <div>
- <h1 align=left>Estamos há <RuntimeException> sem BUGS!</h1>
+ <h1 align=left>Estamos há <i>RuntimeException</i> dias sem BUGS!</h1>
 
  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=bioramonmoratori&show_icons=true&theme=vision-friendly-dark&include_all_commits=true&count_private=true">
  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bioramonmoratori&layout=compact&langs_count=7&theme=vision-friendly-dark">
