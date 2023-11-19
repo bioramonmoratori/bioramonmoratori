@@ -4,7 +4,8 @@
 </div>
 
 <li>I'm a Java Back-End Developer</li>
-<li>See my Principal Projects: <a href="https://mybigwhale.com">MyBigWhale</a> and <a href="https://significando.onrender.com">Significando</a> (takes a time to load)</li>
+<li>Check my Projects: <a href="https://mybigwhale.com">MyBigWhale</a> and <a href="https://significando.onrender.com">Significando</a> (takes a time to load)</li>
+<li>Talk to me in <a href="https://www.linkedin.com/in/ramon-moratori-86a558243/">LinkedIn</a></li>
 
 <hr>
 
