@@ -3,9 +3,10 @@
   <h3>We've been without bugs for <i>RuntimeException</i> days!</h3>
 </div>
 
+<li>I'm a Java Back-End Developer</li>
+<li>See my Principal Projects: <a href="https://mybigwhale.com">MyBigWhale</a> and <a href="https://significando.onrender.com">Significando</a> (takes a time to load)</li>
+
 <hr>
-
-
 
 <div align=center>
  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bioramonmoratori&layout=compact&langs_count=7&theme=vision-friendly-dark">
